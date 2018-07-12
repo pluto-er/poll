@@ -1,0 +1,30 @@
+{
+  "name": "pluto-er/poll",
+  "description": "Yii2 pluto-er poll",
+  "keywords": [
+  "yii2",
+  "terrytest"
+  ],
+  "homepage": "https://github.com/pluto-er/poll",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "support": {
+  "source": "https://github.com/pluto-er/poll"
+  },
+  "authors": [
+    {
+      "name": "Plutoer",
+      "email": "1357282015@qq.com",
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "yiisoft/yii2": ">=2.0.6"
+  },
+  "autoload": {
+    "psr-4": [
+      "poll\\": ""
+    ]
+  },
+}
+
